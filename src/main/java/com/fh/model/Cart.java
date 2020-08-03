@@ -7,15 +7,8 @@ public class Cart {
     private String name;
 
     private String filePath;
-
-
     private int count;
-
-
     private Double price;
-
-
-
     public Integer getId() {
         return id;
     }
